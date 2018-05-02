@@ -1,0 +1,11 @@
+C:\Users\RMRM\RamintasBlog\bin\Debug\netcoreapp2.0\RamintasBlog.deps.json
+C:\Users\RMRM\RamintasBlog\bin\Debug\netcoreapp2.0\RamintasBlog.runtimeconfig.json
+C:\Users\RMRM\RamintasBlog\bin\Debug\netcoreapp2.0\RamintasBlog.runtimeconfig.dev.json
+C:\Users\RMRM\RamintasBlog\bin\Debug\netcoreapp2.0\RamintasBlog.dll
+C:\Users\RMRM\RamintasBlog\bin\Debug\netcoreapp2.0\RamintasBlog.pdb
+C:\Users\RMRM\RamintasBlog\obj\Debug\netcoreapp2.0\RamintasBlog.csprojResolveAssemblyReference.cache
+C:\Users\RMRM\RamintasBlog\obj\Debug\netcoreapp2.0\RamintasBlog.csproj.CoreCompileInputs.cache
+C:\Users\RMRM\RamintasBlog\obj\Debug\netcoreapp2.0\RamintasBlog.AssemblyInfoInputs.cache
+C:\Users\RMRM\RamintasBlog\obj\Debug\netcoreapp2.0\RamintasBlog.AssemblyInfo.cs
+C:\Users\RMRM\RamintasBlog\obj\Debug\netcoreapp2.0\RamintasBlog.dll
+C:\Users\RMRM\RamintasBlog\obj\Debug\netcoreapp2.0\RamintasBlog.pdb
